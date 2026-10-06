@@ -1,0 +1,18 @@
+{
+  "name": "pathmx-builder-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "pmx dev",
+    "start": "pmx serve",
+    "check": "pmx lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@pathmx/core": "0.7.1"
+  },
+  "devDependencies": {
+    "@types/bun": "1.4.0",
+    "typescript": "^5"
+  }
+}

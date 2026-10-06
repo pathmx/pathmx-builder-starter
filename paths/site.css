@@ -1,0 +1,2 @@
+.site-workspace { display: flex; align-items: flex-start; }
+.site-workspace > main { flex: 1; min-width: 0; }
