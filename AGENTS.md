@@ -25,36 +25,20 @@ reading, Focus, and Slides using the same authored Source.
 
 ## PathMX Builders Club
 
-This project belongs to a student in the PathMX Builders Club. They own it, their
-accounts and their computer, and may be new to the terminal: say what each step is
-for in a sentence, and show what it printed.
+This project belongs to a student builder in the PathMX Builders Club. At the start
+of a session, read https://pathmx.club/learn/agents.guide.md and follow it. The
+essentials:
 
-- They type their own passwords and approve sign-ins. Never ask for a password,
-  token or code in chat.
+- The builder owns this project, their accounts and their computer. They type their
+  own passwords and approve sign-ins; never ask for a password, token or code in
+  chat.
 - Ask before installing anything outside this project, publishing, making a
   repository public, or upgrading PathMX.
+- Log every PathMX problem, confusion or guess in `pathmx-feedback.md` as it
+  happens, including your own. Finding these is part of the point of the project.
 - If `paths/index.md` still says "Welcome to PathMX", this is a fresh copy of the
   starter: follow the "For Claude" steps at
-  https://pathmx.club/learn/start-windows.guide.md with the builder.
-
-### Log PathMX feedback as you go
-
-Finding where PathMX is confusing or hard is part of the project. When you or the
-builder run into a PathMX problem, add an entry to `pathmx-feedback.md` before
-moving on: errors, setup trouble, docs that don't match what happened, unclear
-commands, terms or messages, things you had to guess, and features you worked
-around. Small things count. Don't quietly work around a PathMX problem.
-
-At the end of a working session, tell the builder which entries you added so they
-can bring them to their check-in with Mark.
-
-### Windows
-
-- Your shell may be Git Bash or PowerShell. In Windows PowerShell, `curl` is an
-  alias; use `curl.exe`.
-- Keep projects out of folders that OneDrive syncs.
-
-### Authoring skill
+  https://pathmx.club/learn/start.guide.md with the builder.
 
 `.claude/skills/pathmx-authoring` is copied from the installed `@pathmx/core`.
 After upgrading PathMX, copy `node_modules/@pathmx/core/skills/pathmx-authoring`

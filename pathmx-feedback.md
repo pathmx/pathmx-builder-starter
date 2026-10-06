@@ -1,12 +1,9 @@
 # PathMX feedback
 
-Finding where PathMX is confusing or gets in the way is part of this project. Add
-an entry whenever you or Claude hit a problem, newest first, and bring the log to
-your check-ins with Mark.
-
-Log anything that cost time or needed a guess: setup trouble, errors, docs that
-didn't match what happened, confusing commands, terms or messages, and features
-you had to work around. Small things count.
+Finding where PathMX is confusing or gets in the way is part of this project. You
+and Claude add an entry whenever you hit a problem, newest first, and bring the log
+to your check-ins. What counts and how it's used:
+https://pathmx.club/learn/agents.guide.md
 
 Copy this for each entry:
 
@@ -18,7 +15,7 @@ Copy this for each entry:
 - **Expected:** what you expected, or what the docs said
 - **Cost:** blocked, slowed down, or just confusing
 - **Workaround:** what got you past it, or none yet
-- **To reproduce:** steps, plus Windows, Bun and PathMX versions
+- **To reproduce:** steps, plus OS, Bun and PathMX versions
 ```
 
 ---
